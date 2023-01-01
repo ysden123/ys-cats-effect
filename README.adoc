@@ -1,0 +1,10 @@
+= ys-cats-effect
+
+Playing with Cats Effect
+
+== Packages
+
+=== resource
+Acquiring and releasing Resources.
+
+See https://typelevel.org/cats-effect/docs/tutorial#dealing-with-cancelation[Copying files - basic concepts, resource handling and cancellation]
