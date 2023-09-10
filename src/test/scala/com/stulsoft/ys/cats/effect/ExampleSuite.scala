@@ -4,7 +4,7 @@
 
 package com.stulsoft.ys.cats.effect
 
-import cats.effect.{IO, SyncIO}
+import cats.effect.IO
 import com.typesafe.scalalogging.StrictLogging
 import munit.CatsEffectSuite
 
